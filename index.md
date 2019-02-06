@@ -15,7 +15,7 @@ For business you can reach me at [xchadunnx@gmail.com](mailto:xchadunnx@gmail.co
 #### Communities
 [borodev](https://borodev.slack.com "https://borodev.slack.com")
 
-## Things I work*(ed)* on and tools I use
+## Things I work *(ed)* on and tools I use
 
 #### Contributions
 >[kubernetes/minikube](https://github.com/kubernetes/minikube "https://github.com/kubernetes/minikube") - Run Kubernetes locally
