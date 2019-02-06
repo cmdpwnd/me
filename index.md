@@ -4,7 +4,7 @@
 `CCNP R&S` `CNCF CKA`
 
 #### Proud Efforts
-* Designed network architecture at $2billion organization, AscendFCU, & performed infrastructure overhaul
+* Designed network architecture at $2billion organization & performed infrastructure overhaul
 * Saved 1000+ network devices from bug CSCvd90410 & subsequent SSH mgmt loss via EEM for auto-healing
 * Automated critical config changes during firmware upgrade via EEM for auto-healing
 
