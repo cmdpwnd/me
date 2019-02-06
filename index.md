@@ -15,7 +15,7 @@ For business you can reach me at [xchadunnx@gmail.com](mailto:xchadunnx@gmail.co
 #### Publications
 [Github](https://github.com/cmdpwnd "https://github.com/cmdpwnd")
 |
-[Medium](medium.com/@chadunn "https://medium.com/@chadunn")
+[Medium](medium.com/@chadunn "https://www.medium.com/@chadunn")
 
 #### Communities
 [borodev](https://borodev.slack.com "https://borodev.slack.com")
