@@ -30,4 +30,4 @@ For business you can reach me at [xchadunnx@gmail.com](mailto:xchadunnx@gmail.co
 >[cctcp](https://github.com/cctcp "https://github.com/cctcp") - Community driven network stack for computercraft 
 
 #### Tools
-`Lenovo T530` `golang` `debian/parrotsec/kali/windows`
+`Lenovo T530` `golang` `debian/windows`
